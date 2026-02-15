@@ -30,7 +30,6 @@ var/
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
-*.spec
 
 # Installer logs
 pip-log.txt
@@ -61,3 +60,5 @@ target/
 .pytest_cache
 .mypy_cache
 pip-wheel-metadata/
+
+.pybuild/
