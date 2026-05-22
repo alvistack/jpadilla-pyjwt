@@ -1,0 +1,5 @@
+python-jwt source: file-without-copyright-information
+python-jwt source: no-debian-changes
+python-jwt source: source-contains-prebuilt-windows-binary
+python-jwt source: source-is-missing
+python-jwt source: source-package-encodes-python-version
