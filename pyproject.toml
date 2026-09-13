@@ -58,7 +58,7 @@ keywords = [
     "token",
     "web",
 ]
-license = "MIT"
+license = { text = "MIT" }
 name = "PyJWT"
 requires-python = ">=3.9"
 
